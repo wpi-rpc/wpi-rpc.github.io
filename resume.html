@@ -26,7 +26,14 @@ layout: home
           {% capture url %}{{ profile.url }}{% endcapture %}
           {% capture name %}{{ profile.network | downcase }}{% endcapture %}
           {% capture label %}{{ profile.username }}{% endcapture %}
-          <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
+          
+          <p class="mb-1">
+            {% if profile.network == "mywpi" %}
+              {% include about/social.html url=url name='mortarboard' %}
+            {% else %}
+              {% include about/social.html url=url name=name %}
+            {% endif %}
+          </p>
         {% endfor %}
       </div>
       <div class="col">
