@@ -2,12 +2,12 @@
   "basics": {
     "name": "Robotics Prototypic Club",
     "label": "WPI Student Organization",
-    "picture": "/img/rpc-logo.png",
+    "picture": "img/rpc-logo.png",
     "email": "rpc-exec@wpi.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://wpi-rpc.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "We're a group of students from Worcester Polytechnic Institute (WPI), Massachusetts, that put our maker skills towards specialized robotics projects! All in the name of fostering a community around clean hobbyist robotics done right.",
+    "location": { "address": "100 Institute Rd", "postalCode": "01609", "city": "Worcester", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "wpi-rpc", "url": "http://github.com/wpi-rpc" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },

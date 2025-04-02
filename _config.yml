@@ -1,7 +1,7 @@
 # REQUIRED CHANGES
 # Edit next line to provide your own name.
-title: Robotics Prototypic Club | Portfolio Workshop
-# Edit next line, replacing 'techfolios' with your github username
+title: Robotics Prototyping Club | Portfolio Template
+# Edit next line, replacing 'wpi-rpc' with your github username
 url: "https://wpi-rpc.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 # or "/portfolio" if you have something else on your github pages / want the url to be url/baseurl 
