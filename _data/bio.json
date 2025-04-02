@@ -2,7 +2,7 @@
   "basics": {
     "name": "Robotics Prototypic Club",
     "label": "WPI Student Organization",
-    "picture": "img/rpc-logo.png",
+    "picture": "https://github.com/wpi-rpc.png",
     "email": "rpc-exec@wpi.edu",
     "phone": "",
     "website": "https://wpi-rpc.github.io",
