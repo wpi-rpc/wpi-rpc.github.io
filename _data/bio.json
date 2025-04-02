@@ -10,7 +10,7 @@
     "location": { "address": "100 Institute Rd", "postalCode": "01609", "city": "Worcester", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "wpi-rpc", "url": "https://github.com/wpi-rpc" },
-      { "network": "mywpi", "username": "Robotics Prototyping Club", "url": "https://mywpi.wpi.edu" },
+      { "network": "mywpi", "username": "Robotics Prototyping Club", "url": "https://mywpi.wpi.edu/RPC/club_signup" },
       { "network": "instagram", "username": "wpi_rpc", "url": "https://instagram.com/wpi_rpc/" }
     ],
     "unused-profiles": [
