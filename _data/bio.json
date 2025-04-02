@@ -9,27 +9,30 @@
     "summary": "We're a group of students from Worcester Polytechnic Institute (WPI), Massachusetts, that put our maker skills towards specialized robotics projects! All in the name of fostering a community around clean hobbyist robotics done right.",
     "location": { "address": "100 Institute Rd", "postalCode": "01609", "city": "Worcester", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
-      { "network": "github", "username": "wpi-rpc", "url": "http://github.com/wpi-rpc" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "wpi-rpc", "url": "https://github.com/wpi-rpc" },
+      { "network": "mywpi", "username": "Robotics Prototyping Club", "url": "https://mywpi.wpi.edu" },
+      { "network": "instagram", "username": "wpi_rpc", "url": "https://instagram.com/wpi_rpc/" }
+    ],
+    "unused-profiles": [
+      { "network": "linkedin", "username": "N/A", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "N/A", "url": "http://twitter.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Printing" },
+    { "name": "Embedded Computing" },
+    { "name": "Computer Vision" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Python", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", "gcc/g++", "TI LaunchPad" ]
     }
   ],
   "education": [
